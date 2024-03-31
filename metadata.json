@@ -13,17 +13,17 @@
   },
   "license": "CC0-1.0",
   "resources": {
-    "homepage": "https://github.com/tormyvancool"
+    "homepage": "https://github.com/tormyvancool/NuovaElettronica"
   },
   "versions": [
     {
       "version": "1.0",
       "status": "stable",
       "kicad_version": "8.0",
-      "download_sha256": "09508278353e01ae90ac3cbd671e537f35967dcfefbf7fe3f87dfcda318b814d",
-      "download_size": 2346939,
+      "download_sha256": "063e42f4c82545668049c9777cfc916375b9e9d0f1b69c4d75941c49ea8bf15b",
+      "download_size": 2346943,
       "download_url": "https://github.com/tormyvancool/NuovaElettronica/raw/fa8d39818b61c9d20ba48bb80c3c4bed032d953f/NE-Nuova-Elettronica-library.zip",
-      "install_size": 10099561
+      "install_size": 10099578
     }
   ]
 }

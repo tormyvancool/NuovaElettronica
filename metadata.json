@@ -19,11 +19,11 @@
     {
       "version": "1.0",
       "status": "stable",
-      "kicad_version": "8.0.1",
-      "download_sha256": "1e20d9b519b4a7ad2a966acade46bd419545026ac10c905e0e7d0386f2fdde9c",
-      "download_size": 2346941,
-      "download_url": "https://github.com/tormyvancool/NuovaElettronica/raw/8e335fea85d84f0916413039ff8e8a33ff085ec0/NE-Nuova-Elettronica-library.zip",
-      "install_size": 10099563
+      "kicad_version": "8.0",
+      "download_sha256": "09508278353e01ae90ac3cbd671e537f35967dcfefbf7fe3f87dfcda318b814d",
+      "download_size": 2346939,
+      "download_url": "https://github.com/tormyvancool/NuovaElettronica/raw/fa8d39818b61c9d20ba48bb80c3c4bed032d953f/NE-Nuova-Elettronica-library.zip",
+      "install_size": 10099561
     }
   ]
 }

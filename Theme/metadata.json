@@ -19,17 +19,17 @@
   },
   "license": "CC0-1.0",
   "resources": {
-    "Github": "https://github.com/tormyvancool/NuovaElettronica/Theme"
+    "Github": "https://github.com/tormyvancool/NuovaElettronica/tree/main/Theme"
   },
   "versions": [
     {
       "version": "1.0",
       "status": "stable",
       "kicad_version": "8.0",
-      "download_sha256": "d1abdb093404a8edfa21b8edd6dc83b65d2babc3b92cadf271cb869049af46be",
-      "download_size": 7208,
-      "download_url": "https://github.com/tormyvancool/NuovaElettronica/raw/4fefc29846fdf3e714782f2106433cb6ad4f28e1/Theme/NE-Nuova-Elettronica-theme.zip",
-      "install_size": 13909
+      "download_sha256": "d0a2d5b242d7a1920ba65ae680ab2c05064b9534ee4325b6a9e331151a6dc043",
+      "download_size": 7213,
+      "download_url": "https://github.com/tormyvancool/NuovaElettronica/raw/bc399714c3fc2cade679f3b16de355764916c658/Theme/NE-Nuova-Elettronica-theme.zip",
+      "install_size": 13919
     }
   ]
 }

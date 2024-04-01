@@ -1,0 +1,35 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "Nuova Elettronica Theme",
+  "description": "Theme with the colors of the italian fomer-magazine Nuova Elettronica",
+  "description_full": "Theme with the colors of the italian fomer-magazine Nuova Elettronica",
+  "identifier": "com.github.tormyvancool.NuovaElettronica.theme",
+  "type": "colortheme",
+  "author": {
+    "name": "Tormy Van Cool",
+    "contact": {
+      "web": "https://github.com/tormyvancool/"
+    }
+  },
+  "maintainer": {
+    "name": "Tormy Van Cool",
+    "contact": {
+      "web": "https://github.com/tormyvancool/"
+    }
+  },
+  "license": "CC0-1.0",
+  "resources": {
+    "Github": "https://github.com/tormyvancool/NuovaElettronica/Theme"
+  },
+  "versions": [
+    {
+      "version": "1.0",
+      "status": "stable",
+      "kicad_version": "8.0",
+      "download_sha256": "ea1373a00311cef9fe7fa92ae100a2140576f05b512b752603604912ccb63dce",
+      "download_size": 7206,
+      "download_url": "https://github.com/tormyvancool/NuovaElettronica/raw/846b3562ebbab663f296c03eee6d23950c6b2745/NE-Nuova-Elettronica-library.zip",
+      "install_size": 13905
+    }
+  ]
+}

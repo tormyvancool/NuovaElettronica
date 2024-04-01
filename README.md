@@ -9,4 +9,6 @@ Symbols Installation
 ![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/f0ff4086-7c81-4272-a365-d53da38317e3)
 ![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/5599707e-5ba5-4657-9433-b10ab1ea1a6a)
 ![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/404f1484-8e75-4509-a4e6-554721caba90)
+![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/304eaf08-f2c2-4ecb-b258-814e83f2c211)
+
 

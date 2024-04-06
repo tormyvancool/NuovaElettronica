@@ -5,10 +5,11 @@ https://it.wikipedia.org/wiki/Nuova_Elettronica
 
 ## Symbols and theme Library Installation
 #English
-https://youtu.be/GyORTf-bweI
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GyORTf-bweI/0.jpg)](https://www.youtube.com/watch?v=GyORTf-bweI)
 
+
 #Italian
-https://youtu.be/36U95JnCdVs
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/36U95JnCdVs/0.jpg)](https://www.youtube.com/watch?v=36U95JnCdVs)
 

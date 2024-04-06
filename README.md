@@ -3,12 +3,10 @@ Symbols and Theme for KiCAD 7.xx and 8.xx, very similar to the one use by the no
 
 https://it.wikipedia.org/wiki/Nuova_Elettronica
 
-## Symbols Library Installation
-![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/35dcef6d-7b37-43d5-b1c1-80ac0a84df6c)
-![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/6ca4e3fc-734e-47f3-bfda-8f80344e0981)
-![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/f0ff4086-7c81-4272-a365-d53da38317e3)
-![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/5599707e-5ba5-4657-9433-b10ab1ea1a6a)
-![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/404f1484-8e75-4509-a4e6-554721caba90)
-![image](https://github.com/tormyvancool/NuovaElettronica/assets/32305535/304eaf08-f2c2-4ecb-b258-814e83f2c211)
+## Symbols and theme Library Installation
+#English
+https://youtu.be/GyORTf-bweI
 
+#Italian
+https://youtu.be/36U95JnCdVs
 

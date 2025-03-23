@@ -1,0 +1,29 @@
+{
+  "$schema": "https://go.kicad.org/pcm/schemas/v1",
+  "name": "Nuova Elettronica Symbols Library",
+  "description": "Symbols collection similar to the one used by Nuova Elettronica",
+  "description_full": "Nuova Elettronica was a glorious italian magazine that promote electornics not only in italy but in all EU Countries. Indeed it was translated in several languages and distribute along the whole EU Territories.",
+  "identifier": "com.github.tormyvancool.NuovaElettronica",
+  "type": "library",
+  "author": {
+    "name": "Tormy Van Cool",
+    "contact": {
+      "web": "https://github.com/tormyvancool"
+    }
+  },
+  "license": "CC0-1.0",
+  "resources": {
+    "homepage": "https://github.com/tormyvancool/NuovaElettronica"
+  },
+  "versions": [
+    {
+      "version": "1.0",
+      "status": "stable",
+      "kicad_version": "8.0",
+      "download_sha256": "063e42f4c82545668049c9777cfc916375b9e9d0f1b69c4d75941c49ea8bf15b",
+      "download_size": 2346943,
+      "download_url": "https://github.com/tormyvancool/NuovaElettronica/raw/846b3562ebbab663f296c03eee6d23950c6b2745/NE-Nuova-Elettronica-library.zip",
+      "install_size": 10099578
+    }
+  ]
+}

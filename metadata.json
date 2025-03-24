@@ -20,10 +20,10 @@
       "version": "2.0",
       "status": "stable",
       "kicad_version": "9.0",
-      "download_sha256": "93b995c8cbb4a45c0fe3e1ff70fc5919e7499c49ae2d659d928e2acb315b5401",
-      "download_size": 2346943,
-      "download_url": "https://github.com/tormyvancool/NuovaElettronica/raw/b43f76f4813b21ddb86086b4e89bece78227e4ff/NE-Nuova-Elettronica-library.zip",
-      "install_size": 27280716
+      "download_sha256": "1be500b4240f9451813c2ee40de1954a96c2fd77a23ac3ef2356f41fe9e135e4",
+      "download_size": 2346946,
+      "download_url": "https://github.com/tormyvancool/NuovaElettronica/raw/21f056ee2d761f36346a0cae724c41ab7b21e8f1/NE-Nuova-Elettronica-library.zip",
+      "install_size": 10099584
     }
   ]
 }
